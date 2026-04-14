@@ -4,7 +4,7 @@ title: Chicago Business License Analysis
 ---
 
 # Homework 5: Chicago Business Licenses
-[Link to Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/licenses_fall2022.csv) | [Link to My Analysis Notebook](./HW5_The_Analysis.ipynb)
+[Link to Data](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/licenses_fall2022.csv) | [Link to My Analysis Notebook](./HW5_The Analysis.ipynb)
 
 ## Visualization 1: License Status Frequency
 This chart shows the distribution of business license statuses. I chose a horizontal bar chart to ensure labels remain readable and sorted them to show the most common statuses at a glance.
